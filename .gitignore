@@ -1,0 +1,13 @@
+# Maven build output
+target/
+
+# Java compiled files
+*.class
+
+# Serialized saved games
+partida.ser
+
+# IDE metadata
+.idea/
+.vscode/
+*.iml
